@@ -1,0 +1,219 @@
+[33mcommit 27a50f9ff5e121443d781c3a299b60a76a3d6768[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: thebirdgr <gigiravi98@gmail.com>
+Date:   Tue May 19 13:54:41 2020 +0800
+
+    push for cloud
+
+[33mcommit ab8246fa47b5c1158f9467eee37eec78475df559[m
+Author: Matt Lane <lane.matthew@gmail.com>
+Date:   Fri Oct 20 16:14:48 2017 -0700
+
+    adding CSS project solution scaffolding
+
+[33mcommit a92fd6bdae2a4231bc922b049167d0f366c15587[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Fri Oct 20 12:25:49 2017 -0700
+
+    adding react
+
+[33mcommit 888103d29b6582fb1a4a0effb39fee524829fe84[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Fri Oct 20 12:18:35 2017 -0700
+
+    fixing git issues
+
+[33mcommit 0cba7273dbf639fc0a864ebd84aeaefcc79d1cb0[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Fri Oct 20 12:18:10 2017 -0700
+
+    clean up
+
+[33mcommit 00ceb29f13bebf6717da541d4a9ea6f893876039[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Fri Oct 20 12:02:46 2017 -0700
+
+    adding todos and react material
+
+[33mcommit 781da0c36100580b56021ce8c483b250022edc63[m
+Merge: ed003c0 1a5da73
+Author: Elie Schoppik <elie@users.noreply.github.com>
+Date:   Mon Oct 16 10:23:14 2017 -0700
+
+    Merge pull request #1 from bliden/master
+    
+    Fix for forEach - vowelCount - returning uppercase letters
+
+[33mcommit 1a5da7368111e4ada9a820be2b37bbae1cc84746[m
+Author: Benjamin Liden <benjamin.c.liden@gmail.com>
+Date:   Sat Oct 14 16:01:47 2017 -0400
+
+    fixed spaces & tabs as per upstream
+
+[33mcommit 125a6b4eb5ea8d28a0ad9271d42e97e2350e79ca[m
+Author: Benjamin Liden <benjamin.c.liden@gmail.com>
+Date:   Sat Oct 14 15:57:59 2017 -0400
+
+    Fixed array returning uppercase letters
+
+[33mcommit ed003c0b76d45dbf713377449afa9ca7cb008a67[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Thu Sep 28 10:00:24 2017 -0700
+
+    adding starter code
+
+[33mcommit 7de9a568fcf98941fdbb2ef1eabcfc304ed7969e[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Thu Sep 28 09:55:40 2017 -0700
+
+    adding links to readme
+
+[33mcommit cdfee2c7e76071cfe96480df8e422d9779a13d48[m
+Author: Elie Schoppik <elie@users.noreply.github.com>
+Date:   Thu Aug 10 13:03:08 2017 -0700
+
+    Update async-functions-exercises.js
+
+[33mcommit cd5453e1346fa308dbab0065e3fa2b81e63e2e00[m
+Author: Elie Schoppik <elie@users.noreply.github.com>
+Date:   Thu Aug 10 13:02:21 2017 -0700
+
+    Update promises-exercises.js
+
+[33mcommit 5c02ef7c804634aad485cec6d9bc8ad3ceb05552[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Thu Jul 20 15:56:40 2017 -0700
+
+    adding gitignore
+
+[33mcommit 5aebb8950dc69f5e0df896029c0dcf5f59545475[m
+Merge: 8213c22 b446180
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Mon Jun 19 01:59:06 2017 -0700
+
+    Merge branch 'solutions'
+
+[33mcommit b4461807fc02a824ef6bf35da439746bf1027d56[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Mon Jun 19 01:58:16 2017 -0700
+
+    cleaning up
+
+[33mcommit 8213c222bb3ed227c7681d9684f49d89cfdc5b51[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Mon Jun 19 01:58:16 2017 -0700
+
+    cleaning up
+
+[33mcommit eb8d3b0763a4c03ebb6e45c9285d8ad9a6757fb6[m
+Author: Elie Schoppik <elie@users.noreply.github.com>
+Date:   Mon Jun 19 00:51:43 2017 -0700
+
+    Update readme.md
+
+[33mcommit 3a0b55a8563f7b5ed19d917f97185381db16a39f[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Mon Jun 19 00:45:04 2017 -0700
+
+    fixing lettercount
+
+[33mcommit 4ee82e5d46d02887ed1508a97c63f8aa0249c1ce[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Sun Jun 18 20:36:56 2017 -0700
+
+    moving into individual folders
+
+[33mcommit 2f62b5f18ff665f2d48ef1d67849414fbb48da6f[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Sat Jun 17 17:45:55 2017 -0700
+
+    moving js array methods around
+
+[33mcommit 5c20e39287eb66eaf4ff83a3c377e82bdc16372e[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Fri Jun 16 15:49:23 2017 -0700
+
+    cleaning up
+
+[33mcommit 73ca63723666122dee82173cf35e4cfcff43ffb3[m
+Author: Elie Schoppik <elie@users.noreply.github.com>
+Date:   Wed Jun 14 21:24:45 2017 -0700
+
+    Create async-functions-exercises.js
+
+[33mcommit e2808275abb040ad584413020ac1edcbbc1e4de1[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Wed Jun 14 21:24:09 2017 -0700
+
+    cleaning up
+
+[33mcommit eb1a5b9c18e66d555ebf53cc0f0d23d26be2268f[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Wed Jun 14 21:00:40 2017 -0700
+
+    small changes
+
+[33mcommit a9dfea739be5baab24423d4cc2b4bcbb6725f070[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Thu May 25 14:16:20 2017 -0700
+
+    adding tests for the rest of the assignments
+
+[33mcommit 72c657c9315303ec79c2bbe99022a0eaddfb5eca[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Thu May 25 12:27:50 2017 -0700
+
+    adding tests for all except es2015 part 2
+
+[33mcommit 01ed464e196e37f2b5674ffa47525719cfac84f9[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Wed May 24 22:32:50 2017 -0700
+
+    adding jasmine
+
+[33mcommit 20fa5e05d13956e90df60a7ee9fbd9cdf4ab0590[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Wed May 24 13:46:37 2017 -0700
+
+    adding more to async exercises
+
+[33mcommit 46fb11d354c862a66b688ca45a6113f1f113c046[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Wed May 24 11:14:40 2017 -0700
+
+    adding async and promise exercies
+
+[33mcommit 69ff15ef0452b1776d716b70a4564b6030e3ddeb[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Tue May 23 16:34:29 2017 -0700
+
+    cleaning up
+
+[33mcommit bdedeae32a71fbd304890af3e9b71a7a9ba361d5[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Tue May 23 16:09:33 2017 -0700
+
+    adding more
+
+[33mcommit f82bb52f64a3eefc2d67eff591699a7259afc16a[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Tue May 23 14:46:32 2017 -0700
+
+    cleaning up reduce
+
+[33mcommit c142f2b071924712b44b585fdb13ffb3ef59869d[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Tue May 23 14:31:08 2017 -0700
+
+    clean up
+
+[33mcommit 210090089f79c8a56bb3bbfe0283d77b75411a55[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Tue May 23 13:35:13 2017 -0700
+
+    adding more exercises
+
+[33mcommit 85e83d9e25f9d72edadae7b14605a735fa2f6ead[m
+Author: Elie Schoppik <eschoppik@gmail.com>
+Date:   Tue May 23 11:37:08 2017 -0700
+
+    initial commit
